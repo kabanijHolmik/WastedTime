@@ -46,3 +46,12 @@ footer{
     background-color: lemonchiffon;
     height: 100px;
 }
+footer .link{
+    padding-left: 20px;
+    padding-top: 30px;
+}
+footer .link a{
+    text-decoration: none;
+    color: black;
+
+}
